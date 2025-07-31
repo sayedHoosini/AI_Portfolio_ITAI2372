@@ -81,12 +81,11 @@ This journey through AI applications has equipped me with the foundational knowl
 ## 🔗 GitHub Repository
 
 All presentation slides, source files, and notes are included in the GitHub repository:
-**[GitHub Repo Link Placeholder]**
+**https://github.com/sayedHoosini/AI_Portfolio_ITAI2372**
 
 ---
 
-## 🧠 Instructor Feedback (Optional Placeholder)
+## 🧠 Instructor Feedback:       100%
 
-Include feedback highlights, if provided by your instructor.
 
 ---
